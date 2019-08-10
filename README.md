@@ -19,14 +19,23 @@ Real World Applications
     There are total 10 classes present in the dataset .
     
     Class 0 - T-Shirt /Top
+    
     Class 1 - Trouser
+    
     Class 2 - Pullover
+    
     Class 3 - Dress
+    
     Class 4 - Coat
-    Class 5 - Sandal 
+    
+    Class 5 - Sandal
+    
     Class 6 - Shirt
+    
     Class 7 - Sneaker
-    Class 8 - Bag 
+    
+    Class 8 - Bag
+    
     Class 9 - Ankle Boot
     
     Link for dataset : https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P39-Fashion-MNIST-Datasets.zip
